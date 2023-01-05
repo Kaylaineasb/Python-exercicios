@@ -1,0 +1,5 @@
+num = int(input('Informe um número '))
+print('Seu número: {}'.format(num))
+print('Dobro: {}'.format(num*2))
+print('Triplo: {}'.format(num*3))
+print('Raiz: {}'.format(num**(1/2)))
